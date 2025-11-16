@@ -7,3 +7,4 @@ net.litetex.capes.provider.WynntilsProvider
 net.litetex.capes.provider.CosmeticaProvider
 net.litetex.capes.provider.LabyModProvider
 net.litetex.capes.provider.CapeModCapeProvider
+net.litetex.capes.provider.VoidcubeProvider
